@@ -8,8 +8,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hallo gentlement, whata gwan?
+          Volumes looking good?
+          Yup
         </p>
+        <p>I still wonder why the UI is all messed up though.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
